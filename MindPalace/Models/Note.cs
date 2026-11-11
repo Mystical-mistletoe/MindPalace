@@ -19,7 +19,7 @@ namespace MindPalace.Models
         public int? ScheduleItemId { get; set; }
 
         /// <summary>
-        /// Помечает заметку удаленной
+        /// Помечает заметку удаленной 
         /// заметку можно восстановить (остается в бд)
         /// </summary>
         public void SoftDelete()

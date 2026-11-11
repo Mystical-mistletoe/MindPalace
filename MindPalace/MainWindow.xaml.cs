@@ -18,7 +18,7 @@ namespace MindPalace
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
     }
 }

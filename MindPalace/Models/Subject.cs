@@ -8,6 +8,7 @@ namespace MindPalace.Models
 {
     /// <summary>
     /// Учебный предмет
+    /// 
     /// </summary>
     public class Subject
     {
